@@ -60,7 +60,7 @@ export default function Services() {
                   <h3 className={'text-white font-mulish font-semibold '}>
                       Back End Development
                   </h3>
-                  <p className={'text-white font-mulish font-light text-sm'}>I am still learning back end to create API using Golang and Nestjs</p>
+                  <p className={'text-white font-mulish font-light text-sm'}>I am still learning back end to create Rest API using Nestjs as Framework</p>
               </div>
           </div>
       </div>
